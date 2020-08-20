@@ -312,9 +312,12 @@ header .intro-text {
 	color: #fff;
 }
 #restaurant-menu img {
-	width: 300px;
-	box-shadow: 15px 0 #a7c44c;
-}
+	/*width: 300px;*/}
+
+#img-promo{
+width: 300px;
+}	
+
 #restaurant-menu h3 {
 	padding: 10px 0;
 	text-transform: uppercase;
